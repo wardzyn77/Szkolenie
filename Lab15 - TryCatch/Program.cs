@@ -56,7 +56,7 @@ namespace Lab15___TryCatch
 			}
 			catch (DivideByZeroException)
 			{
-				Console.WriteLine("Podales 0, nie mozna dzielic przez 0");
+				Console.WriteLine("Podales 0, nie mozna dzielic przez 000");
 			}
 			catch (Exception ex)
 			{
